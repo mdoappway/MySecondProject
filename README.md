@@ -1,7 +1,7 @@
 # MySecondProject
 ## Introduction line for this project
 This is my specific project to understand how to use Git
-I will use this project for my personal learning purpose  
+I will use this project for my personal learning purpose , and for rebase examples
 ## Deployment
 why?
 ## How to contribute
