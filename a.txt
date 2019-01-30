@@ -1,3 +1,9 @@
+
+<!-- added a copyright section 
+
+some rights
+-->
+
 <title>Modificato e aggiunto per il branch title-change</title>
 aaa a
 

@@ -7,4 +7,7 @@ why?
 ## How to contribute
 Feel free to contribute by sending an email to the author , which is me ;-)
 
+## Copyright
+from udemy
+
 This is my second project from github
