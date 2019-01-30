@@ -6,6 +6,7 @@ I will use this project for my personal learning purpose
 why?
 ## How to contribute
 Feel free to contribute by sending an email to the author , which is me ;-)
+Please fork this repositor and ask for a pull request before proceed
 
 ## Copyright
 from udemy
