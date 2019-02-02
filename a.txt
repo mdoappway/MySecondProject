@@ -3,14 +3,12 @@ thanks to all my studends
 
 some rights
 
-ho iniziato da qui su matteo
+ho finito da qui su matteo
 -->
 
 <title>Modificato e aggiunto per il branch title-change</title>
 aaa a
 
-here added som
-
-questo lo ho toccato in master
-e AAA text
+poi aggiungo questo AAA
+e tocco anche quest'altro text
 
