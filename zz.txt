@@ -1,1 +1,5 @@
 mio file nuovo ZZ
+
+modifica temporanea a zz
+
+aggiungo altre modifichine dopo stash apply
